@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+dark-assistant-hub/
+.vscode/
+.DS_Store
